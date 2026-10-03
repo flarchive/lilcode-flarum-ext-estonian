@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of lilcode/flarum-ext-estonian.** Not for installation: use [Packagist](https://packagist.org/packages/lilcode/flarum-ext-estonian) or the [upstream repository](https://github.com/rxnniiee/flarum-ext-estonian).
 
-**0** versions archived · Latest: [`v1.6.2.2`](https://github.com/flarchive/lilcode-flarum-ext-estonian/tree/archive/v1.6.2.2) · License: `MIT` · Flarum: `^0.1.0-beta.7`
+**1** versions archived · Latest: [`v1.6.2.2`](https://github.com/flarchive/lilcode-flarum-ext-estonian/tree/archive/v1.6.2.2) · License: `MIT` · Flarum: `^0.1.0-beta.7`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.6.2.2` | 2017-12-08 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/lilcode-flarum-ext-estonian/tree/archive/v1.6.2.2) |
 
 Catalog entry: [packages/lilcode-flarum-ext-estonian.json](https://github.com/flarchive/archive-index/blob/main/packages/lilcode-flarum-ext-estonian.json)
 
